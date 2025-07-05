@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Lashes with Milie</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header><h1>Lashes with Milie</h1><nav><a href="#about">About</a><a href="#services">Services</a><a href="#gallery">Gallery</a><a href="#contact">Contact</a></nav></header>
+  <main>
+    <section id="hero"><h2>Welcome to Lashes with Milie</h2><p>Your go‑to destination for stunning lash extensions, clusters, lash lifts, and Gel‑X nails.</p></section>
+    <section id="about"><h2>About Us</h2><p>At Lashes with Milie, we combine expert skill with a passion for beauty to deliver flawless lash and nail services tailored to you.</p></section>
+    <section id="services"><h2>Our Services</h2><ul><li>Lash Extensions</li><li>Cluster Lashes</li><li>Lash Lift & Tint</li><li>Gel‑X Nails</li></ul></section>
+    <section id="gallery"><h2>Gallery</h2><p>Coming soon – add your before/after photos here.</p></section>
+    <section id="contact"><h2>Contact</h2><p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a><br>Phone: +230 1234 5678 (Mauritius)</p></section>
+  </main>
+  <footer><p>&copy; 2025 Lashes with Milie</p></footer>
+</body>
+</html>
